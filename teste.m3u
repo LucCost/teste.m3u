@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="http://grade-de-programacao.xml"
+
+## HBO 1 ##
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="HBO 1" tvg-name="HBO" tvg-logo="",Nome do canal de música na playlist
+http://lmtv.me/live/Ud5Su/Tff3C/90100.m3u8
+
+## HBO 2 ##
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="HBO 2" tvg-name="HBO2" tvg-logo="",Nome do canal de esportes na playlist
+http://lmtv.me/live/Ud5Su/Tff3C/90092.m3u8
+
+## HBO Family ##
+#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="HBO Family" tvg-name="HBOFamily" tvg-logo="",Nome do canal de culinária na sua playlist
+http://lmtv.me/live/Ud5Su/Tff3C/90096.m3u8
